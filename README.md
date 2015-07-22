@@ -4,6 +4,9 @@
 
 > Visualize MSAs in the XMFA format
 
+![Screenshot](wip.png)
+
+
 ## Getting Started
 Install the module with: `npm install biojs-viz-xmfa`
 
